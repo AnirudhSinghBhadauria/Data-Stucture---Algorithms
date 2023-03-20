@@ -16,7 +16,6 @@ function averagePair(array, target) {
     } else {
       j--;
     }
-
     console.log("FALSE");
     return;
   }
